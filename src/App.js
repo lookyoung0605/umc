@@ -2,6 +2,7 @@ import Movie from "./Componemts/Movie";
 import { movies } from "./movieDummy";
 
 function App() {
+  // git test
   return (
     <div className="App">
       <div className="app-container">
